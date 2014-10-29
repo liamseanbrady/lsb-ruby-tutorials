@@ -1,0 +1,1 @@
+A repository to hold all code used in Ruby tutorials on my [blog](http://www.liamseanbrady.wordpress.com)
