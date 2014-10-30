@@ -80,6 +80,11 @@ end
 # yield(param) is a signal for block to do it's thing WITH something
 
 
+[1, 2, 3, 3, 5] & [2, 5, 7, 7] returns [2, 5].
+This could be really useful for a social network app where you’re trying to find which interests or friends a users have in common. Really cool!
+
+Try using an enumerator to achieve the above.
+
 
 
 
