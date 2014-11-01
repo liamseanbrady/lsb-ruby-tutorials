@@ -85,6 +85,8 @@ This could be really useful for a social network app where you’re trying to fi
 
 Try using an enumerator to achieve the above.
 
+TODO: Add info from Peter Cooper YouTube tutorial on Enumerators.
+
 
 
 
